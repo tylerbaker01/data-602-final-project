@@ -1,0 +1,19 @@
+Research Question:
+Does gun ownership directly lead to more gun violence?
+Justification:
+This is relevent to anyone who lives in the United States (since that will be the data I am looking at) because gun violence is a serious problem that causes severe societal problems.
+Data Sources:
+I will use four data sources.
+A) Number of registered firearms per state of 2021.
+https://www.statista.com/statistics/215655/number-of-registered-weapons-in-the-us-by-state/
+B) Concealed carry permits by states from 2021.
+https://www.gunstocarry.com/concealed-carry-statistics/
+C) Firearm mortality rate by states from 2020. I know that stats on 2021 would be more accurate, 
+but I do not believe there are stats available for the year yet. For the sake of this paper, I will assume that 2020's stats are nearly identical to last year's.
+https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm
+D) Mass shootings from 2021.
+https://www.gunviolencearchive.org/reports/mass-shooting?year=2021
+Potential Libraries
+-Matplotlib
+-Pandas
+-Numpy
