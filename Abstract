@@ -1,0 +1,12 @@
+    Gun control has been hotly contested debate in the United States in recent years. There is a debate for two reasons: the amount of deaths from gun violence, and the 
+amount of mass shootings. The goal of this study was to look at gun facts as well as other societal stats to find correlations with gun related deaths and mass shootings.
+Specifically, I gathered data on the amount of firearms, the percentage of gun owners, a diversity score, the literacy rate, an economic inequality score, the percentage
+of religious people, the amount of gun related deaths, and the amount of mass shootings for each state in 2021. Again my goal was to find any coorelations that we could 
+make attempt to change policy on. I did this by first visualizing each category compared with the amount of gun related deaths, and the amount of mass shootings respect-
+ivly. Any visualizations that appeared like a possible coorelation I would then run a linear regression model on it. Then I evaluated the regression models. I found that 
+two things have almost an equal impact on gun related deaths. Namely, the percentage of gun owners in a state and the percentage of religious people in a state. Further-
+more, I found out that only one thing seemed to have a coorelation with mass shootings. Surprisingly, it was not a gun related stat, in fact it was also the percentage
+of religious people in a state. This is not surprising to me. I have always thought religion pushes violence and hate under the veil of peace and love. As far as making
+a possible policy, we cannot simply ban religions becuase religious freedom is a civil right under the constitution. Instead we need to understand what about religion
+is making people want to shoot other people. Once we have a better understanding we can reign religion in and steer institutions away from that principal cause until
+religion dies on its own due to evolution.
